@@ -17,6 +17,7 @@ body {
 h1 {
   margin: 30px;
   font-family: nainafont;
+/*   done for transition  */
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #F9E2AF;
